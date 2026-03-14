@@ -1,0 +1,4 @@
+builddir/
+.venv
+*.pyc
+.ipynb_checkpoints
