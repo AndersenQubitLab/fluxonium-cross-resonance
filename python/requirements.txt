@@ -1,0 +1,11 @@
+drawsvg
+injector
+latex2svg @ git+https://github.com/Moonbase59/latex2svg.git#egg=latex2svg
+matplotlib
+networkx
+notebook
+sortedcontainers
+scipy >= 1.15  # Requires scipy.differentiate
+tqdm
+uncertainties
+xarray

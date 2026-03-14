@@ -1,0 +1,30 @@
+font.family: "FiraGO"
+font.size: 9
+axes.labelsize: 9
+figure.labelsize: 9
+xtick.labelsize: 7
+ytick.labelsize: 7
+
+mathtext.fontset: "custom"
+mathtext.it: "FiraGO:italic"
+mathtext.rm: "FiraGO"
+mathtext.cal: "stix"
+mathtext.fallback: "stixsans"
+
+svg.fonttype: none
+
+axes.prop_cycle: cycler(color=['084081', 'd95f02', '7570b3', 'e6ab02', '1b9e77', 'e7298a', 'b2182b', '1b7837', '8c510a', '666666'])
+
+lines.linewidth: 1
+
+legend.frameon: False
+
+xtick.major.size: 3.5
+xtick.minor.size: 2.0
+xtick.major.pad: 3.5
+xtick.minor.pad: 5.0
+
+ytick.major.size: 3.5
+ytick.minor.size: 2.0
+ytick.major.pad: 3.5
+ytick.minor.pad: 5.0
