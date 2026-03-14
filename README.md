@@ -24,7 +24,7 @@ and then extracted into the `data/` directory so that the plotting notebooks can
 
 All numerical computations were performed on a mid-range laptop with an Intel Core i7-1260P CPU and 16 GB of RAM.
 Depending on the calculation notebook,
-the execution time can vary from only a few mins to over a day,
+the execution time can vary from a few minutes to over a day,
 
 
 ## Plotting
