@@ -1,5 +1,6 @@
 drawsvg
 injector
+h5netcdf[h5py]
 latex2svg @ git+https://github.com/Moonbase59/latex2svg.git#egg=latex2svg
 matplotlib
 networkx
