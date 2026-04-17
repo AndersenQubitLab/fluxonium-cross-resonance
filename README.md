@@ -18,7 +18,7 @@ This package must be installed as editable for the notebooks to correctly locate
 
 The calculation notebooks save the results in the `data/` directory, but these are not included in this repository.
 Instead, they can be downloaded
-[from a separate 4TU.ResearchData dataset](example.org)
+[from a separate 4TU.ResearchData dataset](https://data.4tu.nl/datasets/f74ed890-6fae-4595-933b-1be3d0473fde)
 as a single `data.zip` file,
 and then extracted into the `data/` directory so that the plotting notebooks can find them.
 
